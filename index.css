@@ -246,6 +246,7 @@ h6 {
   border: 1.5px solid #17a2b8;
   background-color: var(--previewBg);
   padding-bottom: 15px;
+  padding-left: 5px;
   position: relative;
 }
 
