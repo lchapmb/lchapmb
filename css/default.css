@@ -366,6 +366,7 @@ footer {
   display: grid;
   text-align: center;
   align-content: center;
+  text-align-last: center;
 }
 
 @media screen and (max-width: 1200px) {
