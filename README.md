@@ -54,7 +54,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@@Chap_Lewis](https://twitter.com/@Chap_Lewis) - lchapmb@googlemail.com
+Your Name - [@Chap_Lewis](https://twitter.com/@Chap_Lewis) - lchapmb@googlemail.com
 
 Project Link: [https://github.com/lchapmb/lchapmb.github.io](https://github.com/lchapmb/lchapmb.github.io)
 
